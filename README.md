@@ -1,12 +1,16 @@
 # Image2Image-Daily
 
 
-[TOC]
+## Table of Contents
+
+- [2020](#2020)
+  - [2020.7](#20207)
 
 ## 2020
 
 ### 2020.7
 
+2020-07-29
 |  Title  |   Venue  |Code|
 |:--------|:--------:|:--------:|
 | [COCO-FUNIT: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder](http://arxiv.org/abs/2007.07431) | arXiv:2007.07431 [cs] |  |
