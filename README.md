@@ -10,6 +10,13 @@
 
 ### 2020.7
 
+2020-07-30
+|  Title  |   Venue  |Code|
+|:--------|:--------:|:--------:|
+| [Few-Shot Knowledge Transfer for Fine-Grained Cartoon Face Generation](http://arxiv.org/abs/2007.13332) | arXiv:2007.13332 [cs] |  |
+| [Style Is a Distribution of Features](http://arxiv.org/abs/2007.13010) | arXiv:2007.13010 [cs, eess] |  |
+| [Towards Purely Unsupervised Disentanglement of Appearance and Shape for Person Images Generation](http://arxiv.org/abs/2007.13098) | arXiv:2007.13098 [cs] |  |
+
 2020-07-29
 |  Title  |   Venue  |Code|
 |:--------|:--------:|:--------:|
