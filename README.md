@@ -4,9 +4,21 @@
 ## Table of Contents
 
 - [2020](#2020)
+  - [2020.8](#20208)
   - [2020.7](#20207)
 
 ## 2020
+
+### 2020.8
+
+2020-08-01
+|  Title  |   Venue  |Code|
+|:--------|:--------:|:--------:|
+| [Face2Face: Real-Time Face Capture and Reenactment of RGB Videos](http://arxiv.org/abs/2007.14808) | arXiv:2007.14808 [cs] |  |
+| [On the Unreasonable Effectiveness of CNNs](http://arxiv.org/abs/2007.14745) | arXiv:2007.14745 [cs, eess] |  |
+| [Toward Zero-Shot Unsupervised Image-to-Image Translation](http://arxiv.org/abs/2007.14050) | arXiv:2007.14050 [cs] |  |
+| [Translate the Facial Regions You Like Using Region-Wise Normalization](http://arxiv.org/abs/2007.14615) | arXiv:2007.14615 [cs] |  |
+
 
 ### 2020.7
 
