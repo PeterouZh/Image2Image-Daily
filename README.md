@@ -1,5 +1,4 @@
-# Image2Image-Daily
-
+A collection of image2image papers appearing on arXiv.
 
 ## Table of Contents
 
