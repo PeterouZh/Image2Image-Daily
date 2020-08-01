@@ -52,3 +52,5 @@
 ## Previous
 |  Title  |   Venue  |Code|
 |:--------|:--------:|:--------:|
+| [GAN Compression: Efficient Architectures for Interactive Conditional GANs](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.html) | CVPR |  |
+
