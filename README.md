@@ -2,10 +2,16 @@
 
 ## Table of Contents
 
+- [Miscellaneous](#miscellaneous)
 - [2020](#2020)
   - [2020.8](#20208)
   - [2020.7](#20207)
-  - [Previous](#previous)
+
+
+## Miscellaneous
+|  Title  |   Venue  |Code|
+|:--------|:--------:|:--------:|
+| [GAN Compression: Efficient Architectures for Interactive Conditional GANs](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.html) | CVPR |  |
 
 ## 2020
 
@@ -48,9 +54,4 @@
 | [TuiGAN: Learning Versatile Image-to-Image Translation with Two Unpaired Images](http://arxiv.org/abs/2004.04634) | arXiv:2004.04634 [cs, eess] |  |
 | [Unpaired Image-to-Image Translation Using Adversarial Consistency Loss](http://arxiv.org/abs/2003.04858) | arXiv:2003.04858 [cs] |  |
 
-
-## Previous
-|  Title  |   Venue  |Code|
-|:--------|:--------:|:--------:|
-| [GAN Compression: Efficient Architectures for Interactive Conditional GANs](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.html) | CVPR |  |
 
