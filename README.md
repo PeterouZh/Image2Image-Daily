@@ -19,6 +19,13 @@
 
 ### 2020.8
 
+2020-08-03
+|  Title  |   Venue  |Code|
+|:--------|:--------:|:--------:|
+| [Contrastive Learning for Unpaired Image-to-Image Translation](http://arxiv.org/abs/2007.15651) | ECCV |  |
+| [Unselfie: Translating Selfies to Neutral-Pose Portraits in the Wild](http://arxiv.org/abs/2007.15068) | ECCV |  |
+
+
 2020-08-01
 |  Title  |   Venue  |Code|
 |:--------|:--------:|:--------:|
