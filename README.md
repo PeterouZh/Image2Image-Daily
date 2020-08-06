@@ -19,6 +19,20 @@
 
 ### 2020.8
 
+2020-08-06
+|  Title  |   Venue  |Code|
+|:--------|:--------:|:--------:|
+| [Animating Through Warping: An Efficient Method for High-Quality Facial Expression Animation](http://arxiv.org/abs/2008.00362) | arXiv:2008.00362 [cs, eess] |  |
+| [Blending Generative Adversarial Image Synthesis with Rendering for Computer Graphics](http://arxiv.org/abs/2007.15820) | arXiv:2007.15820 [cs] |  |
+| [Blind Face Restoration via Deep Multi-Scale Component Dictionaries](http://arxiv.org/abs/2008.00418) | ECCV |  |
+| [Encoding in Style: A StyleGAN Encoder for Image-to-Image Translation](http://arxiv.org/abs/2008.00951) | arXiv:2008.00951 [cs] |  |
+| [From Design Draft to Real Attire: Unaligned Fashion Image Translation](http://arxiv.org/abs/2008.01023) | arXiv:2008.01023 [cs] |  |
+| [IntroVAC: Introspective Variational Classifiers for Learning Interpretable Latent Subspaces](http://arxiv.org/abs/2008.00760) | arXiv:2008.00760 [cs, stat] |  |
+| [Multimodal Image-to-Image Translation via a Single Generative Adversarial Network](http://arxiv.org/abs/2008.01681) | arXiv:2008.01681 [cs] |  |
+| [Neural Style Transfer for Remote Sensing](http://arxiv.org/abs/2007.15920) | arXiv:2007.15920 [cs, eess] |  |
+| [Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions](http://arxiv.org/abs/2008.01576) | ECCV |  |
+
+
 2020-08-03
 |  Title  |   Venue  |Code|
 |:--------|:--------:|:--------:|
