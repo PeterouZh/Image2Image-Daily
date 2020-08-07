@@ -19,6 +19,15 @@
 
 ### 2020.8
 
+2020-08-07
+|  Title  |   Venue  |Code|
+|:--------|:--------:|:--------:|
+| [Deformable Style Transfer](http://arxiv.org/abs/2003.11038) | ECCV |  |
+| [Domain-Specific Mappings for Generative Adversarial Style Transfer](http://arxiv.org/abs/2008.02198) | ECCV |  |
+| [High Resolution Neural Texture Synthesis with Long Range Constraints](http://arxiv.org/abs/2008.01808) | arXiv:2008.01808 [cs] |  |
+| [Making Sense of CNNs: Interpreting Deep Representations & Their Invariances with INNs](http://arxiv.org/abs/2008.01777) | ECCV |  |
+
+
 2020-08-06
 |  Title  |   Venue  |Code|
 |:--------|:--------:|:--------:|
