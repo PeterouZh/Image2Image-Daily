@@ -11,6 +11,7 @@
 ## Miscellaneous
 |  Title  |   Venue  |Code|
 |:--------|:--------:|:--------:|
+| [StarGAN v2: Diverse Image Synthesis for Multiple Domains](http://arxiv.org/abs/1912.01865) | CVPR | [github](https://github.com/clovaai/stargan-v2) |
 | [GAN Compression: Efficient Architectures for Interactive Conditional GANs](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.html) | CVPR |  |
 | [Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization](http://arxiv.org/abs/1703.06868) | ICCV |  |
 
