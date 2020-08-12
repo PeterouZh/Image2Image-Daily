@@ -75,7 +75,7 @@
 | [Controllable Image Synthesis via SegVAE](http://arxiv.org/abs/2007.08397) | ECCV |  |
 | [Deep Preset: Blending and Retouching Photos with Color Style Transfer](http://arxiv.org/abs/2007.10701) | arXiv:2007.10701 [cs, eess] |  |
 | [Deep Single Image Manipulation](http://arxiv.org/abs/2007.01289) | arXiv:2007.01289 [cs] |  |
-| [DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation](http://arxiv.org/abs/2007.11301) | arXiv:2007.11301 [cs] |  |
+| [DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation](http://arxiv.org/abs/2007.11301) | arXiv:2007.11301 [cs] | [github](https://github.com/alexandre01/deepsvg) |
 | [Geometric Style Transfer](http://arxiv.org/abs/2007.05471) | arXiv:2007.05471 [cs] |  |
 | [Guided Deep Decoder: Unsupervised Image Pair Fusion](http://arxiv.org/abs/2007.11766) | ECCV |  |
 | [Improving Style-Content Disentanglement in Image-to-Image Translation](http://arxiv.org/abs/2007.04964) | arXiv:2007.04964 [cs] |  |
