@@ -18,15 +18,15 @@
 | [Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization](http://arxiv.org/abs/1703.06868) | ICCV |  |
 
 ## Supervised
-|  Title  |   Venue  |Code|
-|:--------|:--------:|:--------:|
-| [Image-to-Image Translation with Conditional Adversarial Networks](http://arxiv.org/abs/1611.07004) | CVPR |  |
-| [Toward Multimodal Image-to-Image Translation](http://arxiv.org/abs/1711.11586) | NeurIPS |  |
-| [Everybody Dance Now](http://arxiv.org/abs/1808.07371) | arXiv:1808.07371 [cs] |  |
-| [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](http://arxiv.org/abs/1711.11585) | CVPR |  |
-| [Video-to-Video Synthesis](http://arxiv.org/abs/1808.06601) | NeurIPS |  |
-| [Few-Shot Video-to-Video Synthesis](http://arxiv.org/abs/1910.12713) | NeurIPS |  |
-| [Semantic Image Synthesis with Spatially-Adaptive Normalization](http://arxiv.org/abs/1903.07291) | CVPR |  |
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Image-to-Image Translation with Conditional Adversarial Networks](http://arxiv.org/abs/1611.07004) | CVPR |  | 2017 |
+| [Toward Multimodal Image-to-Image Translation](http://arxiv.org/abs/1711.11586) | NeurIPS |  | 2017 |
+| [Everybody Dance Now](http://arxiv.org/abs/1808.07371) | arXiv:1808.07371 [cs] |  | 2018 |
+| [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](http://arxiv.org/abs/1711.11585) | CVPR |  | 2018 |
+| [Video-to-Video Synthesis](http://arxiv.org/abs/1808.06601) | NeurIPS |  | 2018 |
+| [Few-Shot Video-to-Video Synthesis](http://arxiv.org/abs/1910.12713) | NeurIPS |  | 2019 |
+| [Semantic Image Synthesis with Spatially-Adaptive Normalization](http://arxiv.org/abs/1903.07291) | CVPR |  | 2019 |
 
 
 ## 2020
