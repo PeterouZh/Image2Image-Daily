@@ -27,7 +27,7 @@
 | [Block Shuffle: A Method for High-Resolution Fast Style Transfer with Limited Memory](http://arxiv.org/abs/2008.03706) | arXiv:2008.03706 [cs, eess] |  |
 | [Deep Sketch-Guided Cartoon Video Synthesis](http://arxiv.org/abs/2008.04149) | arXiv:2008.04149 [cs] |  |
 | [Describe What to Change: A Text-Guided Unsupervised Image-to-Image Translation Approach](http://arxiv.org/abs/2008.04200) | arXiv:2008.04200 [cs] |  |
-| [Informative Dropout for Robust Representation Learning: A Shape-Bias Perspective](http://arxiv.org/abs/2008.04254) | ICML |  |
+| [Informative Dropout for Robust Representation Learning: A Shape-Bias Perspective](http://arxiv.org/abs/2008.04254) | ICML | [github](https://github.com/bfshi/InfoDrop) |
 | [Multimodal Image-to-Image Translation via Mutual Information Estimation and Maximization](http://arxiv.org/abs/2008.03529) | arXiv:2008.03529 [cs, eess] |  |
 | [Neural Light Transport for Relighting and View Synthesis](http://arxiv.org/abs/2008.03806) | arXiv:2008.03806 [cs] |  |
 | [Speech Driven Talking Face Generation from a Single Image and an Emotion Condition](http://arxiv.org/abs/2008.03592) | arXiv:2008.03592 [cs, eess] |  |
