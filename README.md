@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Miscellaneous](#miscellaneous)
+- [Supervised](#supervised)
 - [2020](#2020)
   - [2020.8](#20208)
   - [2020.7](#20207)
@@ -15,6 +16,17 @@
 | [StarGAN v2: Diverse Image Synthesis for Multiple Domains](http://arxiv.org/abs/1912.01865) | CVPR | [github](https://github.com/clovaai/stargan-v2) |
 | [GAN Compression: Efficient Architectures for Interactive Conditional GANs](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.html) | CVPR |  |
 | [Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization](http://arxiv.org/abs/1703.06868) | ICCV |  |
+
+## Supervised
+|  Title  |   Venue  |Code|
+|:--------|:--------:|:--------:|
+| [Image-to-Image Translation with Conditional Adversarial Networks](http://arxiv.org/abs/1611.07004) | CVPR |  |
+| [Toward Multimodal Image-to-Image Translation](http://arxiv.org/abs/1711.11586) | NeurIPS |  |
+| [Everybody Dance Now](http://arxiv.org/abs/1808.07371) | arXiv:1808.07371 [cs] |  |
+| [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](http://arxiv.org/abs/1711.11585) | CVPR |  |
+| [Video-to-Video Synthesis](http://arxiv.org/abs/1808.06601) | NeurIPS |  |
+| [Few-Shot Video-to-Video Synthesis](http://arxiv.org/abs/1910.12713) | NeurIPS |  |
+| [Semantic Image Synthesis with Spatially-Adaptive Normalization](http://arxiv.org/abs/1903.07291) | CVPR |  |
 
 
 ## 2020
