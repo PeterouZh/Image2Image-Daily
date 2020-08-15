@@ -11,6 +11,7 @@
 ## Miscellaneous
 |  Title  |   Venue  |Code|
 |:--------|:--------:|:--------:|
+| [Style Transfer by Relaxed Optimal Transport and Self-Similarity](http://arxiv.org/abs/1904.12785) | CVPR |  |
 | [StarGAN v2: Diverse Image Synthesis for Multiple Domains](http://arxiv.org/abs/1912.01865) | CVPR | [github](https://github.com/clovaai/stargan-v2) |
 | [GAN Compression: Efficient Architectures for Interactive Conditional GANs](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.html) | CVPR |  |
 | [Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization](http://arxiv.org/abs/1703.06868) | ICCV |  |
@@ -19,6 +20,19 @@
 ## 2020
 
 ### 2020.8
+
+2020-08-15
+|  Title  |   Venue  |Code|
+|:--------|:--------:|:--------:|
+| [Block Shuffle: A Method for High-Resolution Fast Style Transfer with Limited Memory](http://arxiv.org/abs/2008.03706) | arXiv:2008.03706 [cs, eess] |  |
+| [Deep Sketch-Guided Cartoon Video Synthesis](http://arxiv.org/abs/2008.04149) | arXiv:2008.04149 [cs] |  |
+| [Describe What to Change: A Text-Guided Unsupervised Image-to-Image Translation Approach](http://arxiv.org/abs/2008.04200) | arXiv:2008.04200 [cs] |  |
+| [Informative Dropout for Robust Representation Learning: A Shape-Bias Perspective](http://arxiv.org/abs/2008.04254) | ICML |  |
+| [Multimodal Image-to-Image Translation via Mutual Information Estimation and Maximization](http://arxiv.org/abs/2008.03529) | arXiv:2008.03529 [cs, eess] |  |
+| [Neural Light Transport for Relighting and View Synthesis](http://arxiv.org/abs/2008.03806) | arXiv:2008.03806 [cs] |  |
+| [Speech Driven Talking Face Generation from a Single Image and an Emotion Condition](http://arxiv.org/abs/2008.03592) | arXiv:2008.03592 [cs, eess] |  |
+| [StyleFlow: Attribute-Conditioned Exploration of StyleGAN-Generated Images Using Conditional Continuous Normalizing Flows](http://arxiv.org/abs/2008.02401) | arXiv:2008.02401 [cs] |  |
+
 
 2020-08-07
 |  Title  |   Venue  |Code|
