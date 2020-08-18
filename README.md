@@ -22,6 +22,8 @@
 |:--------|:--------:|:--------:|:--------:|
 | [Image-to-Image Translation with Conditional Adversarial Networks](http://arxiv.org/abs/1611.07004) | CVPR |  | 2017 |
 | [Toward Multimodal Image-to-Image Translation](http://arxiv.org/abs/1711.11586) | NeurIPS |  | 2017 |
+| [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](http://arxiv.org/abs/1811.10597) | arXiv:1811.10597 [cs] |  | 2018 |
+| [Generative Visual Manipulation on the Natural Image Manifold](http://arxiv.org/abs/1609.03552) | ECCV |  | 2018 |
 | [Everybody Dance Now](http://arxiv.org/abs/1808.07371) | arXiv:1808.07371 [cs] |  | 2018 |
 | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](http://arxiv.org/abs/1711.11585) | CVPR |  | 2018 |
 | [Video-to-Video Synthesis](http://arxiv.org/abs/1808.06601) | NeurIPS |  | 2018 |
