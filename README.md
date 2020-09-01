@@ -12,6 +12,7 @@
 ## Miscellaneous
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [High-Resolution Network for Photorealistic Style Transfer](http://arxiv.org/abs/1904.11617) | arXiv:1904.11617 [cs, eess] | [github](https://github.com/limingcv/Photorealistic-Style-Transfer) | 2019 |
 | [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](http://arxiv.org/abs/1811.10597) | arXiv:1811.10597 [cs] |  | 2018 |
 | [Generative Visual Manipulation on the Natural Image Manifold](http://arxiv.org/abs/1609.03552) | ECCV |  | 2018 |
 
@@ -37,6 +38,23 @@
 ## 2020
 
 ### 2020.8
+
+2020-09-01
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Black Magic in Deep Learning: How Human Skill Impacts Network Training](http://arxiv.org/abs/2008.05981) | arXiv:2008.05981 [cs] |  | 2020 |
+| [Deep Relighting Networks for Image Light Source Manipulation](http://arxiv.org/abs/2008.08298) | arXiv:2008.08298 [cs, eess] |  | 2020 |
+| [Depth-Aware Arbitrary Style Transfer Using Instance Normalization](http://arxiv.org/abs/1906.01123) | arXiv:1906.01123 [cs, eess] |  | 2020 |
+| [DTVNet: Dynamic Time-Lapse Video Generation via Single Still Image](http://arxiv.org/abs/2008.04776) | arXiv:2008.04776 [cs] |  | 2020 |
+| [Generative View Synthesis: From Single-View Semantics to Novel-View Images](http://arxiv.org/abs/2008.09106) | arXiv:2008.09106 [cs, eess] |  | 2020 |
+| [Learning to Caricature via Semantic Shape Transform](http://arxiv.org/abs/2008.05090) | arXiv:2008.05090 [cs] |  | 2020 |
+| [Learning to See Through Obstructions with Layered Decomposition](http://arxiv.org/abs/2008.04902) | arXiv:2008.04902 [cs, eess] |  | 2020 |
+| [Mesh Guided One-Shot Face Reenactment Using Graph Convolutional Networks](http://arxiv.org/abs/2008.07783) | arXiv:2008.07783 [cs] |  | 2020 |
+| [Meta-Sim2: Unsupervised Learning of Scene Structure for Synthetic Data Generation](http://arxiv.org/abs/2008.09092) | ECCV |  | 2020 |
+| [Powers of Layers for Image-to-Image Translation](http://arxiv.org/abs/2008.05763) | arXiv:2008.05763 [cs, eess] |  | 2020 |
+| [Retrieval Guided Unsupervised Multi-Domain Image-to-Image Translation](http://arxiv.org/abs/2008.04991) | arXiv:2008.04991 [cs] |  | 2020 |
+| [The Hessian Penalty: A Weak Prior for Unsupervised Disentanglement](http://arxiv.org/abs/2008.10599) | ECCV |  | 2020 |
+
 
 2020-08-15
 |  Title  |   Venue  |Code|
