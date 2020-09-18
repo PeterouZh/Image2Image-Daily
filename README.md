@@ -5,6 +5,7 @@
 - [Miscellaneous](#miscellaneous)
 - [Supervised](#supervised)
 - [2020](#2020)
+  - [2020.9](#20209)
   - [2020.8](#20208)
   - [2020.7](#20207)
 
@@ -36,6 +37,15 @@
 
 
 ## 2020
+
+### 2020.9
+
+2020-09-18
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [BeautyGAN: Instance-Level Facial Makeup Transfer with Deep Generative Adversarial Network](https://doi.org/10.1145/3240508.3240618) | Proceedings of the 26th ACM International Conference on Multimedia |  | 2018 |
+| [SLGAN: Style- and Latent-Guided Generative Adversarial Network for Desirable Makeup Transfer and Removal](http://arxiv.org/abs/2009.07557) | arXiv:2009.07557 [cs] |  | 2020 |
+
 
 ### 2020.8
 
