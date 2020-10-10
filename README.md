@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Library](#library)
 - [Miscellaneous](#miscellaneous)
 - [Supervised](#supervised)
 - [2020](#2020)
@@ -9,6 +10,8 @@
   - [2020.8](#20208)
   - [2020.7](#20207)
 
+## Library
+- [imaginaire](https://github.com/NVlabs/imaginaire)
 
 ## Miscellaneous
 |  Title  |   Venue  |Code|Year|
