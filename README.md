@@ -1,4 +1,5 @@
 ## A collection of image2image papers appearing on arXiv.
+Deprecated! Transfer to this repository [https://github.com/PeterouZh/latest-generative-model-papers](https://github.com/PeterouZh/latest-generative-model-papers).
 
 ## Table of Contents
 
